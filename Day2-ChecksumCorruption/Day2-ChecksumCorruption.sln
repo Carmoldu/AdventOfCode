@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day2-ChecksumCorruption", "Day2-ChecksumCorruption\Day2-ChecksumCorruption.vcxproj", "{950C03A5-7E20-4F55-85F7-F07374F8A2A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950C03A5-7E20-4F55-85F7-F07374F8A2A0}.Debug|x64.ActiveCfg = Debug|x64
+		{950C03A5-7E20-4F55-85F7-F07374F8A2A0}.Debug|x64.Build.0 = Debug|x64
+		{950C03A5-7E20-4F55-85F7-F07374F8A2A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{950C03A5-7E20-4F55-85F7-F07374F8A2A0}.Debug|x86.Build.0 = Debug|Win32
+		{950C03A5-7E20-4F55-85F7-F07374F8A2A0}.Release|x64.ActiveCfg = Release|x64
+		{950C03A5-7E20-4F55-85F7-F07374F8A2A0}.Release|x64.Build.0 = Release|x64
+		{950C03A5-7E20-4F55-85F7-F07374F8A2A0}.Release|x86.ActiveCfg = Release|Win32
+		{950C03A5-7E20-4F55-85F7-F07374F8A2A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5559D72-A02F-4AB0-89C4-4D54A2A49F18}
+	EndGlobalSection
+EndGlobal
